@@ -1,4 +1,4 @@
 {
-  "jquery-easing",
+  "name": "jquery-easing",
   "scripts": ["index.js"]
 }
